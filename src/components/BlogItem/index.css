@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.inner-container{
+    display: flex;
+    justify-content: space-between;
+}
+.item-heading{
+    font-family: 'Roboto';
+    font-size: 20px;
+    color: #12022f;
+    font-weight: bold;
+}
+
+.description{
+    font-family: 'Roboto';
+    font-size: 14px;
+    color: #9aa5b1;
+}
+.published-date{
+    font-family: 'Roboto';
+    font-size: 18px;
+    color: #9aa5b1;
+}
